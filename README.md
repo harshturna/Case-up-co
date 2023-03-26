@@ -25,7 +25,7 @@ The following technologies were used in building the website:
 <hr/>
 
 ## Run Locally
-To set up the application locally, clone the repository and run npm install to install dependencies. Create a .env file with the required environment variables, and start the development server using npm start.
+To set up the application locally, clone the repository and run `npm install` to install dependencies. Create a `.env` file with the required environment variables, and start the development server using `npm start`.
 
 
 
