@@ -73,7 +73,7 @@ const Wrapper = styled.section`
     display: grid;
     grid-template-columns: 125px 1fr;
     align-items: center;
-    margin-bottom: 1rem;
+    margin-bottom: 1.2rem;
     span {
       text-transform: capitalize;
       font-weight: 700;
