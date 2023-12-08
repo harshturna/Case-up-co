@@ -1,6 +1,6 @@
 # Case Up Co.
 
-View the store - [caseupco.byharsh.com](https://caseupco.byharsh.com)
+Visit the store - [caseupco.byharsh.com](https://caseupco.byharsh.com/)
 
 ## Description
 Case Up Co. is an ecommerce website that specializes in selling phone cases. The application is built using React as a Single-Page Application (SPA) and is deployed on Netlify. <br/>
